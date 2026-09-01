@@ -9,6 +9,7 @@ int main()
 {
     std::cout << "Calculator App" << std::endl;
     std::cout << "2 + 3 = " << add(2, 3) << std::endl;
+    std::cout << "5 + 7 = " << add(5, 7) << std::endl;
 
     return 0;
 }
